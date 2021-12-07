@@ -51,4 +51,8 @@ Tom Lazore
 
 ![ntawScreenshot](https://user-images.githubusercontent.com/47471193/145121218-742bc5b1-721b-4f25-ae72-88c41fc5fba2.png)
 
+## Links
 
+ [Live Application](https://nowthatsawrap.herokuapp.com/)
+ 
+ [Project Repository](https://github.com/tlaze/NowThatsAWrap)
